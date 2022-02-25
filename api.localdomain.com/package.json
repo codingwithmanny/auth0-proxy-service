@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "auth0": "^2.40.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3"
+  }
+}
